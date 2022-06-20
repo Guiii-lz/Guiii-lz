@@ -1,6 +1,6 @@
 - 👋 Hey, I’m Guilherme Luiz
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning .net CSharp and Front End (HTML, CSS and JS).
+- 🌱 I’m currently learning Java and Front End (HTML, CSS and JS).
 - 💞️ I'm looking to collaborate on new work to acquire new knowledge about the world of development
 - 📫 How to reach me in my Linkedin profile (https://www.linkedin.com/in/guilherme-luiz-dos-santos/)
 
